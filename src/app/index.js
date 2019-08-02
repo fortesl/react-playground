@@ -1,15 +1,21 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Clock from './components/clock';
 
 function App() {
   return (
+    // <Clock />
+
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+
+        <Clock />
+
         <a
           className="App-link"
           href="https://reactjs.org"
