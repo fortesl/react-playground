@@ -1,0 +1,14 @@
+  
+  .featuredHouse {
+    border-radius: 2px;
+    background-color: rgb(255, 190, 166);
+  }
+
+  .price {
+    font-size: larger;
+    color: coral;
+  }
+
+  .emailIcon {
+    height: 50px;
+  }
